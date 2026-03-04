@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian
 
-<!--
-**CristianMarin22222/CristianMarin22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas  
+🚀 Apasionado por el desarrollo de software  
+📍 Colombia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías que estoy aprendiendo
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📂 Proyectos
+
+🔹 Programacion4  
+Ejercicios de HTML y desarrollo web.
+
+---
+
+## 🚀 Objetivos
+
+- Mejorar mis habilidades en programación
+- Aprender nuevas tecnologías
+- Trabajar en proyectos de software
+
+---
+
+## 📫 Contacto
+
+GitHub: https://github.com/externochat2025
